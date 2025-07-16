@@ -1,7 +1,7 @@
 # 🚧 Real-Time-Road-Marking-Detection-and-Classification-for-rural-and-urban-Indian-roads-
  
 ## 📌 Project Overview
-This project focuses on real-time detection and classification of road markings (like lane dividers, pedestrian crossings, arrows, etc.) on rural and semi-urban Indian roads. We use low-cost edge AI devices such as Raspberry Pi or Jetson Nano and lightweight models like YOLOv8-nano or MobileNet.
+This project focuses on real-time detection and classification of road markings (like lane dividers, pedestrian crossings, arrows, etc.) on rural and semi-urban Indian roads. We use low-cost edge AI devices such as Raspberry Pi or Jetson Nano and lightweight models like YOLOv11-nano or MobileNet.
 
 ---
 
